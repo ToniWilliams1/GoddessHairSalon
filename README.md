@@ -5,7 +5,7 @@ Goddess Hair Salon modern, fully responsive, and semantically structured web app
 
 ## Key Technologies, Packages, and Gems
 
-- Front end
+- Front end <br>
 HTML <br>
 CSS <br>
 JavaScript
