@@ -1,7 +1,6 @@
 # Goddess Hair Salon 
 
-
-Goddess Hair Salon modern, fully responsive, and semantically structured web application for Goddess Hair Salon. In this app, users are able to get detailed information about the various services provided at the salon, understand the company's mission and purpose, and receive exclusive updates by enrolling in the Goddess email list.
+ Modern, fully responsive, and semantically structured web application that matches the business aesthetic and allow users to get information about the services provided at the salon, understand the company's mission and purpose, and receive exclusive updates by enrolling in the Goddess email list.
 
 ## Key Technologies, Packages, and Gems
 
