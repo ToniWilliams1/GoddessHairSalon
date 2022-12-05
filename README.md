@@ -7,7 +7,8 @@
 - Front end <br>
 HTML <br>
 CSS <br>
-JavaScript
+JavaScript <br>
+Netlify
 
 ## Core Features
 Users are able to get detailed information about the various services provided at the salon.  Users can enroll in the Goddess Gems newsletter to receive exclusive coupons.
