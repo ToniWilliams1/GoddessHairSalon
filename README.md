@@ -1,4 +1,4 @@
-# Goddess Hair Salon 
+# Goddess Styles
 
  Modern, fully responsive, and semantically structured web application to capture the business aesthetic and allow users to get information about the services provided at the salon, understand the company's mission and purpose, and receive exclusive updates by enrolling in the Goddess email list.
 
@@ -12,7 +12,7 @@ Netlify <br>
 SCSS
 
 ## Core Features
-Users are able to get detailed information about the various services provided at the salon.  Users can enroll in the Goddess Gems newsletter to receive exclusive coupons.
+Users are able to get detailed information about the various services provided at the salon.  Users can submit inquiries through the site.
 
 
 ## [Demo](https://goddesshairsalon.netlify.app)
@@ -21,4 +21,3 @@ Users are able to get detailed information about the various services provided a
 
 
 
-https://github.com/ToniWilliams1/CitySpacesNY
