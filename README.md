@@ -2,13 +2,14 @@
 
  Modern, fully responsive, and semantically structured web application to capture the business aesthetic and allow users to get information about the services provided at the salon, understand the company's mission and purpose, and receive exclusive updates by enrolling in the Goddess email list.
 
-## Key Technologies, Packages, and Gems
+# Key Technologies, Packages, and Gems
 
-- Front end <br>
+## Front end <br>
 HTML <br>
 CSS <br>
 JavaScript <br>
-Netlify
+Netlify <br>
+SCSS
 
 ## Core Features
 Users are able to get detailed information about the various services provided at the salon.  Users can enroll in the Goddess Gems newsletter to receive exclusive coupons.
