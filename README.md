@@ -16,7 +16,9 @@
 • SCSS
 
 ## Core Features
-Users are able to get detailed information about the various services provided at the salon.  Users can submit inquiries through the site.
+• Users are able to get detailed information about the various services provided at the salon along with pricing.
+
+• Users can submit inquiries through the site.
 
 
 ## [Demo](https://goddesshairsalon.netlify.app)
