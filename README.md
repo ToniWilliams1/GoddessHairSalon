@@ -1,6 +1,6 @@
 # Goddess Styles
 
- Modern, fully responsive, and semantically structured web application to capture the business aesthetic and allow users to get information about the services provided at the salon, understand the company's mission and purpose, and submit inquiries.
+ Modern, fully responsive, and semantically structured web application to capture the business aesthetic and allow users to get information about the services provided at the salon, understand the company's mission and purpose, and submit inquiries directly to the stylist through the web application.
 
 # Key Technologies, Packages, and Gems
 
