@@ -21,7 +21,7 @@
 • Users can submit inquiries through the site.
 
 
-## [Demo](https://goddesshairsalon.onrender.com)
+
  <img width="1437" alt="GHS" src="https://user-images.githubusercontent.com/100317017/209873600-820a3852-8363-471a-a363-2a9a1c16d838.gif">
 
 
