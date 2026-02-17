@@ -1,4 +1,4 @@
-# Goddess Styles
+# Goddess Hair Salon
 
  Modern, fully responsive, and semantically structured one-page portfolio site to capture the business aesthetic and allow users to get information about the services provided at the salon, understand the company's mission and purpose, and submit inquiries directly to the stylist through the web application.
 
